@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "ostream": "cpp"
+  },
+  "git.ignoreLimitWarning": true,
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe"
+}
